@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+  
+  body {
+    background-color: #e9ecf4;
+ }
+
+ .contenedor{
+    width: 90%;
+    margin: 20px;
+    text-align: center;
+ }
+
+ .form-control{
+   margin-top: 10px;
+     margin-bottom: 10px;
+ }
+
+ ul{
+   list-style: none;
+ }
+
+ .btn{
+   margin-bottom: 10px;
+ }
+
+ 
